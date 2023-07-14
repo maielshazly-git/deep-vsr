@@ -1,6 +1,7 @@
 # neural-sr-for-bbs
 
-This research project is based on the [nemo](https://github.com/kaist-ina/nemo) project.
+This research project is based on the [nemo](https://github.com/kaist-ina/nemo) project, H. Yeo, C. J. Chong, Y. Jung, J. Ye and D. Han, "NEMO: Enabling neural-enhanced video streaming on commodity mobile devices", Proc. 26th Annu. Int. Conf. Mobile Comput. Netw. (MobiCom), pp. 1-14, 2020.​
+
 The goal of this project is to compare the outputs of different experiments that apply neural super-resolution to videos on mobile devices to acquire bounding boxes that can be acceptable as ground truth for possible further object detection on such devices.
 
 ## Prerequisites
